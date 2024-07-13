@@ -4,7 +4,6 @@
   "exclude": ["node_modules"],
   "compilerOptions": {
     "outDir": "./lib",
-    "rootDir": "./src",
-    "types": ["./global.d.ts"]
+    "rootDir": "./src"
   }
 }

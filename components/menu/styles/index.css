@@ -1,0 +1,7 @@
+components-menu:not(:defined) {
+  display: none;
+}
+
+components-menu-item:not(:defined) {
+  display: none;
+}

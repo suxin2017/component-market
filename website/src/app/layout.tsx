@@ -16,6 +16,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <header>
+        <link
+          suppressHydrationWarning
+          href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css"
+          rel="stylesheet"
+        />
+      </header>
+
       <body className={inter.className}>{children}</body>
     </html>
   );

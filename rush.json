@@ -404,6 +404,15 @@
       "packageName": "@components/button",
       "projectFolder": "components/button",
       "tags": ["components"]
+    },
+    {
+      "packageName": "@components/icon",
+      "projectFolder": "components/icon",
+      "tags": ["components"]
+    }, {
+      "packageName": "@components/menu",
+      "projectFolder": "components/menu",
+      "tags": ["components"]
     }
   ]
 }

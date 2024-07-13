@@ -1,0 +1,3 @@
+components-buttons:not(:defined) {
+  display: none;
+}

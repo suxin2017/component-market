@@ -13,7 +13,9 @@
     "react-dom": "^18",
     "next": "14.2.5",
     "@components/button": "workspace:*",
-    "@lit/react": "~1.0.5"
+    "@lit/react": "~1.0.5",
+    "@components/icon": "workspace:*",
+    "@components/menu": "workspace:*"
   },
   "devDependencies": {
     "typescript": "~5.5.3",
